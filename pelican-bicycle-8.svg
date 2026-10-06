@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6a0572"/>
+      <stop offset="1" stop-color="#ff6f91"/>
+    </linearGradient>
+    <pattern id="wheels" width="0" height="0"/>
+  </defs>
+
+  <rect width="800" height="600" fill="url(#sky)"/>
+
+  <g fill="#ffffff" opacity="0.85">
+    <circle cx="90" cy="70" r="3"/>
+    <circle cx="180" cy="120" r="2.5"/>
+    <circle cx="300" cy="55" r="3"/>
+    <circle cx="420" cy="95" r="2.5"/>
+    <circle cx="560" cy="60" r="3"/>
+    <circle cx="700" cy="130" r="2.5"/>
+    <circle cx="750" cy="70" r="3"/>
+  </g>
+
+  <circle cx="640" cy="420" r="70" fill="#ffb703" opacity="0.9"/>
+  <g fill="#ffb703">
+    <ellipse cx="150" cy="140" rx="58" ry="24"/>
+    <ellipse cx="195" cy="128" rx="44" ry="21"/>
+    <ellipse cx="112" cy="132" rx="34" ry="17"/>
+  </g>
+
+  <rect x="0" y="540" width="800" height="60" fill="#2d1b4e"/>
+  <rect x="0" y="540" width="800" height="14" fill="#ffd166"/>
+  <g stroke="#ffd166" stroke-width="5" stroke-dasharray="26 22" stroke-linecap="round">
+    <line x1="0" y1="574" x2="800" y2="574"/>
+  </g>
+
+  <g>
+    <circle cx="275" cy="490" r="56" fill="none" stroke="#ffd166" stroke-width="11"/>
+    <circle cx="525" cy="490" r="56" fill="none" stroke="#ffd166" stroke-width="11"/>
+    <g stroke="#ffd166" stroke-width="2.5" opacity="0.75">
+      <line x1="275" y1="490" x2="275" y2="436"/>
+      <line x1="275" y1="490" x2="329" y2="490"/>
+      <line x1="275" y1="490" x2="221" y2="490"/>
+      <line x1="525" y1="490" x2="525" y2="436"/>
+      <line x1="525" y1="490" x2="579" y2="490"/>
+      <line x1="525" y1="490" x2="471" y2="490"/>
+    </g>
+
+    <g stroke="#06d6a0" stroke-width="10" stroke-linecap="round" fill="none">
+      <line x1="275" y1="490" x2="400" y2="490"/>
+      <line x1="400" y1="490" x2="525" y2="490"/>
+      <line x1="400" y1="490" x2="350" y2="385"/>
+      <line x1="350" y1="385" x2="465" y2="390"/>
+      <line x1="465" y1="390" x2="525" y2="490"/>
+      <line x1="350" y1="385" x2="275" y2="490"/>
+    </g>
+
+    <rect x="322" y="364" width="54" height="19" rx="9" fill="#118ab2"/>
+    <path d="M 460 390 L 452 350" stroke="#118ab2" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 428 345 L 476 345" stroke="#118ab2" stroke-width="8" stroke-linecap="round"/>
+
+    <path d="M 330 490 C 322 448 348 412 384 398 C 366 372 376 336 414 330 C 404 364 420 396 450 410 C 478 424 468 470 448 494 L 400 492 C 384 470 348 470 330 490 Z" fill="#f1faee" stroke="#a8dadc" stroke-width="3" stroke-linejoin="round"/>
+
+    <circle cx="418" cy="334" r="31" fill="#f1faee" stroke="#a8dadc" stroke-width="3"/>
+    <path d="M 444 324 L 512 338 Q 516 346 508 352 L 440 340 Z" fill="#ef476f" stroke="#d63a60" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M 440 340 Q 476 360 508 352 Q 478 374 438 350 Z" fill="#ffd6e0" stroke="#d63a60" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="428" cy="326" r="5" fill="#073b4c"/>
+    <circle cx="430" cy="324" r="1.8" fill="#ffffff"/>
+    <path d="M 414 312 Q 422 304 430 312" fill="none" stroke="#073b4c" stroke-width="3.5" stroke-linecap="round"/>
+
+    <path d="M 400 300 Q 404 292 412 296 Q 406 300 404 308 Z" fill="#073b4c"/>
+
+    <path d="M 414 366 C 420 400 434 430 448 450" fill="none" stroke="#ffd166" stroke-width="7" stroke-linecap="round"/>
+
+    <path d="M 448 494 C 436 520 416 528 398 520 C 424 512 436 500 440 488 Z" fill="#ef476f" stroke="#d63a60" stroke-width="3"/>
+  </g>
+</svg>

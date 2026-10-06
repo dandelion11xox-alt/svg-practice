@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#fdf6e3"/>
+
+  <circle cx="660" cy="110" r="46" fill="#f4a261"/>
+  <g stroke="#264653" stroke-width="6" stroke-linecap="round" fill="none">
+    <line x1="660" y1="34" x2="660" y2="50"/>
+    <line x1="660" y1="170" x2="660" y2="186"/>
+    <line x1="584" y1="110" x2="600" y2="110"/>
+    <line x1="720" y1="110" x2="736" y2="110"/>
+    <line x1="606" y1="56" x2="618" y2="68"/>
+    <line x1="702" y1="152" x2="714" y2="164"/>
+  </g>
+
+  <line x1="0" y1="500" x2="800" y2="500" stroke="#2a9d8f" stroke-width="6"/>
+  <g stroke="#2a9d8f" stroke-width="6" stroke-linecap="round">
+    <line x1="80" y1="500" x2="80" y2="474"/>
+    <line x1="150" y1="500" x2="150" y2="466"/>
+    <line x1="690" y1="500" x2="690" y2="470"/>
+    <line x1="740" y1="500" x2="740" y2="478"/>
+  </g>
+
+  <g stroke="#264653" stroke-width="7" stroke-linecap="round" fill="none">
+    <circle cx="290" cy="450" r="58"/>
+    <circle cx="520" cy="450" r="58"/>
+
+    <path d="M 290 450 L 400 450 L 520 450"/>
+    <path d="M 400 450 L 350 355 L 290 450"/>
+    <path d="M 350 355 L 460 360 L 520 450"/>
+    <path d="M 350 355 L 460 360"/>
+    <path d="M 460 360 L 452 322"/>
+    <path d="M 424 318 L 482 318"/>
+
+    <path d="M 330 352 Q 330 340 342 340 L 376 340 Q 388 340 388 352 Q 388 364 376 364 L 342 364 Q 330 364 330 352 Z"/>
+
+    <path d="M 350 355 C 332 322 344 288 372 272"/>
+    <path d="M 372 272 C 386 262 404 258 420 262"/>
+    <path d="M 460 360 C 438 336 420 316 408 300"/>
+
+    <circle cx="412" cy="268" r="30"/>
+    <path d="M 436 258 L 500 268 Q 504 274 498 280 L 434 274"/>
+    <path d="M 470 269 L 496 300"/>
+    <path d="M 436 272 Q 462 292 498 300 Q 466 316 434 288"/>
+
+    <path d="M 402 258 Q 410 250 418 258"/>
+    <path d="M 392 244 Q 400 236 408 244"/>
+
+    <path d="M 520 450 Q 500 484 470 490 Q 496 476 506 452"/>
+  </g>
+
+  <circle cx="422" cy="264" r="5" fill="#264653"/>
+
+  <g stroke="#e76f51" stroke-width="7" stroke-linecap="round" fill="none">
+    <line x1="330" y1="420" x2="350" y2="420"/>
+    <line x1="430" y1="404" x2="450" y2="404"/>
+  </g>
+</svg>
